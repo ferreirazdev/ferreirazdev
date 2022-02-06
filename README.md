@@ -1,6 +1,6 @@
 
-```javascript
-console.log("Flávio Here");👨‍💻
+```golang
+fmt.Println("HEEEEY")
 ```
  <div>
   <a href="https://github.com/ferreirazdev">
@@ -9,5 +9,4 @@ console.log("Flávio Here");👨‍💻
 </div>
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/flavioferreiraz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/flavioferreiraz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
