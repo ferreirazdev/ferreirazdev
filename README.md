@@ -1,6 +1,6 @@
 
 ```golang
-fmt.Println("HEEEEY")
+fmt.Println("status: building something")
 ```
  <div>
   <a href="https://github.com/ferreirazdev">
